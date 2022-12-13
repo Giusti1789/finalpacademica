@@ -1,0 +1,21 @@
+#btn12 {
+    
+    border-radius: 10px;    
+    border: none;
+    color: #fff;
+    background: #7386D5;
+    text-align: center;        
+    width: 100%;
+    transition: all 0.5s;
+    cursor: pointer;
+    padding: 25px 10px;
+  } 
+  #btn12:hover  {
+    padding-right: 50px;
+    background-color: #ffffff;
+      color: #6d7fcc;
+  }
+  #btn12:hover span:after {
+    opacity: 1;
+    right: 0;
+  }

@@ -1,0 +1,22 @@
+
+#boton{    
+    border-radius: 10px;    
+    border: none;
+    color: #fff;
+    background: #7386D5;
+    text-align: center;        
+    width: 100%;
+    transition: all 0.5s;
+    cursor: pointer;
+    padding: 15px 10px;
+  } 
+  #boton:hover  {
+    padding-right: 50px;
+    background-color: #ffffff;
+      color: #6d7fcc;
+  }
+  #boton:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  

@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background:#e6e6fa;
+}
+#navbar {
+    text-align: center;
+    padding: 15px 20px;
+    color: #ddd;
+    background: #7386D5;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+#sel{
+    border: none;
+    font-size: 14px;
+    height: 35px;
+    padding: 5px;
+    width: 350px;
+}
+input{
+    border: none;
+    font-size: 14px;
+    height: 35px;
+    padding: 5px;
+    width: 350px;
+}
